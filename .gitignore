@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# External assets (not included for licensing reasons)
+/Assets/\[UIFabrica\]TrollNest_Free_v01/
+/Assets/FantasyIconsPackFree/
+/Assets/FanyasyStatusIcons/
+/Assets/Update/Isometric Tower Defense Pack/
